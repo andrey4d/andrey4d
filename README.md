@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A DevOps engineer and developer from Siberia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrey4d" alt="andrey4d" /></a> </p>
-
 - 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **andrey4d.dev@gmail.com**
